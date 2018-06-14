@@ -3,6 +3,6 @@ public class B {
 		System.out.println("B!");
 	}
 	public static void main(String[] args) {
-		System.out.println("modify B!");
+		System.out.println("upload B!");
 	}
 }
